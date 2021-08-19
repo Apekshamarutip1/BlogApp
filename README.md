@@ -3,7 +3,7 @@ This is a blogging web-app developed by using Flask (Python web framework). In t
 
 
 ## Technologies used:
-Pythoon-Flask
+Pythoon-Flask <br>
 SQL, SQLAlchemy SQLite (database)
 HTML5, CSS3, Bootstrap4 (Front-end design)
 VS Code (Editor)
